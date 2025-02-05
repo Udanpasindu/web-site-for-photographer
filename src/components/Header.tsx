@@ -25,7 +25,7 @@ export const Header = () => {
           {/* Logo */}
           <a href="#" className="flex items-center space-x-2">
             <Camera className="w-8 h-8 text-blue-400" />
-            <span className="text-xl font-bold text-white">YourName</span>
+            <span className="text-xl font-bold text-white">Maleesha mahendra photography</span>
           </a>
 
           {/* Desktop Navigation */}
