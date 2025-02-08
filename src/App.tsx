@@ -52,7 +52,7 @@ function App() {
                 </div>
                 <div className="flex items-center">
                   <Instagram className="w-5 h-5 text-blue-400 mr-3" />
-                  <a href="https://instagram.com" className="hover:text-blue-400">@yourinstagram</a>
+                  <a href="https://instagram.com" className="hover:text-blue-400">@Maleesha_717</a>
                 </div>
               </div>
             </div>
