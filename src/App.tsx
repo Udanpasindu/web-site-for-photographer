@@ -18,7 +18,7 @@ function App() {
         <div className="relative z-10 h-full flex items-center justify-center text-center px-4">
           <div>
             <Camera className="w-16 h-16 mx-auto mb-4 text-blue-400" />
-            <h1 className="text-4xl md:text-6xl font-bold mb-4">Capturing Moments</h1>
+            <h1 className="text-4xl md:text-6xl font-bold mb-4">Capturing Momentsssss</h1>
             <p className="text-xl text-gray-300">Wedding, Event & Party Photography</p>
           </div>
         </div>
