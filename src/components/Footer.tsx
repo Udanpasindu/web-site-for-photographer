@@ -10,7 +10,7 @@ export const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <Camera className="w-8 h-8 text-blue-400" />
-              <span className="text-xl font-bold text-white">YourName</span>
+              <span className="text-xl font-bold text-white">Maleesha Mahendra Photography</span>
             </div>
             <p className="text-gray-400">
               Capturing life's precious moments in Japan. Specializing in weddings, events, and parties.
@@ -68,11 +68,11 @@ export const Footer = () => {
             <div className="space-y-2">
               <div className="flex items-center text-gray-400">
                 <Phone className="w-5 h-5 mr-2 text-blue-400" />
-                <span>+81 XXX-XXXX-XXXX</span>
+                <span>+81 80-7356-0355</span>
               </div>
               <div className="flex items-center text-gray-400">
                 <Mail className="w-5 h-5 mr-2 text-blue-400" />
-                <span>your.email@example.com</span>
+                <span>maleeshamahendra@gmail.com</span>
               </div>
               <div className="flex items-center text-gray-400">
                 <MapPin className="w-5 h-5 mr-2 text-blue-400" />
@@ -86,7 +86,7 @@ export const Footer = () => {
         <div className="mt-12 pt-8 border-t border-gray-800">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              &copy; {new Date().getFullYear()} YourName Photography. All rights reserved.
+              &copy; {new Date().getFullYear()} Udan Pasindu Jayasekara. All rights reserved.
             </p>
             <div className="mt-4 md:mt-0">
               <nav className="flex space-x-4 text-sm">

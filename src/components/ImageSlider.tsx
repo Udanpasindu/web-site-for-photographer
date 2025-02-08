@@ -8,6 +8,7 @@ const images = [
   'https://images.unsplash.com/photo-1606800052052-a08af7148866',
   'https://images.unsplash.com/photo-1519741497674-611481863552',
   'https://images.unsplash.com/photo-1511795409834-ef04bbd61622',
+
 ];
 
 export const ImageSlider = () => {
